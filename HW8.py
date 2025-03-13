@@ -17,9 +17,8 @@ for _ in range(10000):
         x -= lr * x.grad
         y -= lr * y.grad
         z -= lr * z.grad
-
-    x.grad.zero_()
-    y.grad.zero_()
-    z.grad.zero_()
+        x.grad.zero_()
+        y.grad.zero_()
+        z.grad.zero_()
 
 print(f"x = {x.item():.4f}, y = {y.item():.4f}, z = {z.item():.4f}")
