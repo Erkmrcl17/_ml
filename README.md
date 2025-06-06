@@ -9,4 +9,4 @@
 學校科系 | [金門大學資訊工程系](https://www.nqu.edu.tw/educsie/index.php)
 課程教材 | https://github.com/ccc113b/py2cs
 
-12沒做，其他的都是自己進行完成
+HW12沒做，其餘為自行完成(有些有使用AI或參考網路資料幫助理解，但都是理解完再完成作業)
