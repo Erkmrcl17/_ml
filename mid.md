@@ -35,6 +35,6 @@
 6.Unity 播放語音，並顯示對話內容或驅動角色表情/動畫
 
 ### 展示：
-![image]()
+![image](https://github.com/Erkmrcl17/_ml/blob/main/pict/Cuplikan%20layar%202025-06-06%20235526.png)
 
-![image]()
+![image](https://github.com/Erkmrcl17/_ml/blob/main/pict/Cuplikan%20layar%202025-06-06%20235711.png)
