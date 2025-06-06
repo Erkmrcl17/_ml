@@ -1,6 +1,6 @@
 # NQU AI Assistant
 此專案是一個AI助理，整合語音辨識、語意理解、即時語音回覆與 Unity 動畫互動等功能，實現自然且即時的人機對話體驗。用戶可透過語音與虛擬角色互動，並由角色回應語音與動作。
-![DEMO](https://youtu.be/T7zYKpIHq8w?si=K0JmboD7ac9XcAHx)
+[DEMO](https://youtu.be/T7zYKpIHq8w?si=K0JmboD7ac9XcAHx)
 
 ## 後端（Server）
 使用 Python Flask 為核心架構，實作語音文字理解與生成，並整合以下元件：
